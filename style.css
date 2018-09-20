@@ -6,7 +6,7 @@
 .navbar{
     background: white;
     height: 70px;
-   border-bottom: 1px solid grey;
+    border-bottom: 1px solid grey;
 }
 
 .navbar .navbar-container{
@@ -48,6 +48,7 @@
 .main .main-container .main-button{
     top: 70%;
     padding: 10px;
+    margin: 30px;
  }
 
  .main .main-container .main-link{
@@ -56,16 +57,80 @@
  }
 
 
-.information-container{
+.information{
     background: whitesmoke;
-    height: 700px;
-    border: 1px solid gray;
+    height: 1200px;
+    
 }
 
-.registro{
-    background-color: #B3B1B3;
-    text-align: center;
+.information .information-container{
+    padding: 40px;
     
+}
+
+.information .information-container .information-one-{
+
+    text-align: right;
+}
+
+.information .information-container .grafico{
+    text-align: left;
+    height: 300px;
+}
+
+.information .information-container .information-two{
+
+    text-align: right;
+}
+
+.information .information-container .grafico-2{
+    height: 300px;
+}
+
+.information .information-container .information-three{
+
+    text-align: left;
+}
+
+.information .information-container .grafico-3{
+    height: 300px;
+}
+
+.information .information-container .information-button{
+    text-align: center;
+    padding: 10px;
+    margin: 50px;
+
+}
+
+.footer .footer-container{
+
+    background: grey;
+    height: 150px;
+    border-bottom: 1px solid grey;
+}
+
+
+.registro{
+    background-color: whitesmoke;
+    height: 700px;
+    
+
+    
+}
+
+
+.registro .registro-forma{
+
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    transform: translate(-50%);
+
+}
+
+.registro .registro-container .registro-button{
+    text-align: center;
 }
 
 .login{
