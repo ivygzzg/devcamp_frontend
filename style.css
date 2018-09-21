@@ -68,6 +68,11 @@
     
 }
 
+.inline{
+    display: inline-block;
+    
+}
+
 .information .information-container .information-one-{
 
     text-align: right;
@@ -223,4 +228,46 @@ header{
     margin-right: 30px;
 
 
+}
+
+.ejercicio{
+    background: grey;
+    height: 800px;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ejercicio .ejercicio-container .color-text{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.imagen-1{
+    height: 300px; 
+}
+
+.button-{
+    color: black;
+    background-color: orangered;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    padding: 20px 40px;
+    font-size: 20px;
+}
+
+.lista1{
+    font-weight: bold;
+}
+
+.lista2{
+    font-style: italic;
+}
+
+.lista3{
+    text-decoration-line: underline;
 }
