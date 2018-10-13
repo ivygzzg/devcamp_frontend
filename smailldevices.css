@@ -1,0 +1,118 @@
+@media only screen and (max-width: 600px) {
+    .text-style{
+
+        font-size: 1.8em;
+        line-height: 0.8em;
+        line-height: 1em;
+        
+    }
+
+    .text-1{
+        padding-top: 7px;
+
+    }
+    .style-p{
+        font-size: 1em;
+
+    }
+
+    .button-main{
+    color: white;
+    background-color: rgb(232, 45, 100);
+    font-family: 'value';
+    border-radius: 5px;
+    border: solid rgb(232, 45, 100);
+    padding: 10px 40px;
+    font-size: 1.5em;
+    box-shadow: 4px 5px 20px rgb(16, 64, 151);
+    }
+
+
+    #simbolo{
+        height: 200px;
+    
+    }
+.container{
+    height: 1800px;
+}
+    
+  .organiza-cantainer{
+    display: flex;
+    display: inline-block;
+    background: white;
+    margin-bottom: 100px;
+    height: 450px;
+    width: 408px;
+    box-shadow: 10px 10px 80px;
+    
+
+   } 
+
+
+   #no{
+    margin-left: 33px;
+    margin-bottom: -22px;
+    margin-top: 30px;
+    height: 324px;
+} 
+
+.text-style{
+    margin-left: 10px;
+}
+
+.organiza-1{
+    display: flex;
+    display: inline-block;
+    background: white;
+    margin-bottom: 100px;
+    height: 450px;
+    width: 408px;
+    box-shadow: 10px 10px 80px;
+    
+
+   } 
+
+   #no-1{
+    margin-left: 33px;
+    margin-bottom: -22px;
+    margin-top: 30px;
+    height: 324px;
+
+} 
+
+
+.organiza-2{
+    display: flex;
+    display: inline-block;
+    background: white;
+    margin-bottom: 100px;
+    height: 450px;
+    width: 408px;
+    box-shadow: 10px 10px 80px;
+    
+
+   } 
+
+   #no-2{
+    margin-left: 33px;
+    margin-bottom: -22px;
+    margin-top: 30px;
+    height: 324px;
+
+} 
+
+.imagen-container-2{
+    margin-left: 50px;
+}
+
+footer{
+    background:blue;
+    height: 90px;
+}
+
+
+
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...} 

@@ -1,0 +1,4 @@
+element.style.color = 'red'
+   element.style.fontSize = '200px'
+
+console.log (element.style)

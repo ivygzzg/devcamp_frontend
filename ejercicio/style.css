@@ -1,0 +1,53 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.square{
+    width: 30px;
+    height: 30px;
+}
+
+.blue{
+    background: blue;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    
+}
+
+.red{
+    background: red;
+    position: relative;
+}
+
+
+.button{
+    background: grey;
+    padding: 6px 12px;
+    border-radius: 4px;
+}
+
+.container{
+    width: 100%;
+    height: 500px;
+    background: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ justify-content: spa
+    
+
+}
+
+
+.button-container{
+
+}
+
+.text-container{
+    width: 150px;
+    background-color: blue;
+
+}
+    
